@@ -2,6 +2,13 @@
 
 An end-to-end analysis of 99,000+ orders from the Brazilian e-commerce marketplace Olist (Sep 2016 - Aug 2018). I cleaned raw data with pandas, stored it in SQLite, answered business questions with SQL, and visualised the results.
 
+## Business questions
+
+1. Which product categories drive the most revenue?
+2. How did revenue change over time?
+3. Does late delivery hurt customer reviews?
+4. How many customers come back?
+5. Which regions have the worst delivery performance?
 
 ## Key findings
 

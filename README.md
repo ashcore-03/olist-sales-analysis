@@ -3,6 +3,7 @@
 An end-to-end analysis of 99,000+ orders from the Brazilian e-commerce marketplace Olist (Sep 2016 - Aug 2018). I cleaned raw data with pandas, stored it in SQLite, answered business questions with SQL, visualised the results with matplotlib, and built an interactive Power BI dashboard.
 
 ## Business questions
+
 1. Which product categories drive the most revenue?
 2. How did revenue change over time?
 3. Does late delivery hurt customer reviews?
